@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating tmove_package.egg-info
+writing tmove_package.egg-info/PKG-INFO
+writing dependency_links to tmove_package.egg-info/dependency_links.txt
+writing entry points to tmove_package.egg-info/entry_points.txt
+writing requirements to tmove_package.egg-info/requires.txt
+writing top-level names to tmove_package.egg-info/top_level.txt
+writing manifest file 'tmove_package.egg-info/SOURCES.txt'
+reading manifest file 'tmove_package.egg-info/SOURCES.txt'
+writing manifest file 'tmove_package.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/jio/ros2_ws/install/tmove_package/lib/python3.12/site-packages/tmove-package.egg-link (link to .)
+Installing turtle_move script to /home/jio/ros2_ws/install/tmove_package/lib/tmove_package
+
+Installed /home/jio/ros2_ws/build/tmove_package
+running symlink_data
+creating /home/jio/ros2_ws/install/tmove_package/share/ament_index
+creating /home/jio/ros2_ws/install/tmove_package/share/ament_index/resource_index
+creating /home/jio/ros2_ws/install/tmove_package/share/ament_index/resource_index/packages
+symbolically linking /home/jio/ros2_ws/build/tmove_package/resource/tmove_package -> /home/jio/ros2_ws/install/tmove_package/share/ament_index/resource_index/packages
+symbolically linking /home/jio/ros2_ws/build/tmove_package/package.xml -> /home/jio/ros2_ws/install/tmove_package/share/tmove_package

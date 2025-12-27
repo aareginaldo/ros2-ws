@@ -1,0 +1,25 @@
+[1.542s] Invoking command in '/home/jio/ros2_ws/build/demo_pkg': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jio/ros2_ws/build/demo_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jio/ros2_ws/install/demo_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jio/ros2_ws/build/demo_pkg/build --no-deps symlink_data
+[2.025s] running develop
+[2.336s] running egg_info
+[2.336s] creating demo_pkg.egg-info
+[2.366s] writing demo_pkg.egg-info/PKG-INFO
+[2.366s] writing dependency_links to demo_pkg.egg-info/dependency_links.txt
+[2.366s] writing entry points to demo_pkg.egg-info/entry_points.txt
+[2.366s] writing requirements to demo_pkg.egg-info/requires.txt
+[2.366s] writing top-level names to demo_pkg.egg-info/top_level.txt
+[2.367s] writing manifest file 'demo_pkg.egg-info/SOURCES.txt'
+[2.426s] reading manifest file 'demo_pkg.egg-info/SOURCES.txt'
+[2.427s] writing manifest file 'demo_pkg.egg-info/SOURCES.txt'
+[2.462s] running build_ext
+[2.462s] Creating /home/jio/ros2_ws/install/demo_pkg/lib/python3.12/site-packages/demo-pkg.egg-link (link to .)
+[2.463s] Installing simple_pub script to /home/jio/ros2_ws/install/demo_pkg/lib/demo_pkg
+[2.463s] Installing simple_sub script to /home/jio/ros2_ws/install/demo_pkg/lib/demo_pkg
+[2.464s] 
+[2.464s] Installed /home/jio/ros2_ws/build/demo_pkg
+[2.464s] running symlink_data
+[2.465s] creating /home/jio/ros2_ws/install/demo_pkg/share/ament_index
+[2.466s] creating /home/jio/ros2_ws/install/demo_pkg/share/ament_index/resource_index
+[2.466s] creating /home/jio/ros2_ws/install/demo_pkg/share/ament_index/resource_index/packages
+[2.466s] symbolically linking /home/jio/ros2_ws/build/demo_pkg/resource/demo_pkg -> /home/jio/ros2_ws/install/demo_pkg/share/ament_index/resource_index/packages
+[2.466s] symbolically linking /home/jio/ros2_ws/build/demo_pkg/package.xml -> /home/jio/ros2_ws/install/demo_pkg/share/demo_pkg
+[2.543s] Invoked command in '/home/jio/ros2_ws/build/demo_pkg' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/jio/ros2_ws/build/demo_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jio/ros2_ws/install/demo_pkg/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/jio/ros2_ws/build/demo_pkg/build --no-deps symlink_data
